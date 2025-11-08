@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Welcome on the <img src="imgs/ITEA-GENIUS_Logo_RGB.svg" alt="GENIUS Logo" style="height: 1.5em; vertical-align: middle;"> Knowledge Hub</h1>
+  <h1>Welcome to the <img src="imgs/ITEA-GENIUS_Logo_RGB.svg" alt="GENIUS Logo" style="height: 1.5em; vertical-align: middle;"> Technology Hub</h1>
 </div>
 
 Nowadays, the integration of artificial intelligence into software engineering has transformed the field and continues to do so. AI is being leveraged to enhance both the development process and the quality of the resulting software, driving improvements in efficiency, accuracy, and innovation . Each of the emerging solutions relies on key foundational techniques and knowledge, including, for instance, appropriate model selection, consideration of security implications, evaluation of environmental impact, or incorporation of agentic thinking. 
