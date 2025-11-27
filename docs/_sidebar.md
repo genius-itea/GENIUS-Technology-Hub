@@ -2,5 +2,6 @@
 
 * [Home](/)
 * [Knowledge Hub](knowledge-base.md)
+* [Tools](tools.md)
 * [Project Info and Links](project-information.md)
 * [Imprint](https://genius-itea.github.io/page/impressum/)
