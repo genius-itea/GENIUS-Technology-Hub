@@ -11,7 +11,7 @@ This Hub of the GENIUS project provides a current knowledge platform for the lat
   <a href="https://genius-itea.github.io/" style="display: inline-block; padding: 12px 24px; margin: 10px; background-color: #1c12d0ff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">Visit the Home Page</a>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 2rem;">
   <img src="./imgs/media/image1.png" alt="Image 1">
   <img src="./imgs/media/image2.png" alt="Image 2">
 </div>

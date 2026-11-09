@@ -1,0 +1,85 @@
+/* Site styles on top of the Docsify 5 core theme. */
+
+/* Sidebar: center the logo. Hide the <br> in $docsify.name, which adds an empty line under the logo. */
+.sidebar .app-name img {
+  margin-inline: auto;
+}
+.sidebar .app-name br {
+  display: none;
+}
+
+/* Tables: the core theme lets links break at any character, which makes columns with links too narrow. */
+.markdown-section table a {
+  overflow-wrap: break-word;
+}
+
+/* The core theme sets an h6 and the block after it to the small font size. Give the h6 the h5 size and the block the normal size. */
+.markdown-section h6 {
+  font-size: var(--font-size-m);
+}
+.markdown-section h6 + :not(h1, h2, h3, h4, h5) {
+  font-size: inherit;
+}
+
+/* Knowledge Hub: the markdown wraps figures in a div with an inline max-width of 60%, which is too narrow. !important overrides the inline style. */
+.markdown-section div[align="center"][style*="max-width"] {
+  max-width: 80% !important;
+}
+/* The one wrapper that holds a table gets the full text width. */
+.markdown-section div[align="center"][style*="max-width"]:has(> table) {
+  max-width: none !important;
+}
+
+/* Search: let long result titles wrap. The search plugin gives them the clamp-1 class, which cuts them to one line. */
+.search .matching-post .title {
+  white-space: normal;
+}
+
+/* Pagination: docsify-pagination shows the "Previous" link at 30% opacity, which is hard to read.
+   The plugin adds its styles after this file, so the body prefix makes these selectors win. */
+body .pagination-item:not(:last-child) a .pagination-item-label,
+body .pagination-item:not(:last-child) a .pagination-item-subtitle,
+body .pagination-item:not(:last-child) a .pagination-item-title {
+  opacity: 0.7;
+}
+body .pagination-item:not(:last-child) a:hover .pagination-item-label,
+body .pagination-item:not(:last-child) a:hover .pagination-item-subtitle,
+body .pagination-item:not(:last-child) a:hover .pagination-item-title {
+  opacity: 1;
+}
+
+/* Reading progress bar at the top of the page. assets/js/plugins.js creates it. */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 0;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--theme-color);
+  pointer-events: none;
+  transition: width 0.3s;
+}
+
+/* Small screens: docsify-sidebar-collapse removes the content max-width and adds padding, which makes pages wider than the screen.
+   These rules restore the core theme values. The #main id and the body prefix make them win against the plugin styles, which load after this file. */
+@media screen and (max-width: 768px) {
+  #main.markdown-section {
+    max-width: calc(100% - (var(--content-margin-inline) * 2));
+    padding: 0 0 2rem;
+  }
+  body .sidebar-toggle {
+    padding: 0;
+  }
+}
+
+/* Phones (the core theme mobile breakpoint): use smaller side margins and give figures the full text width. */
+@media screen and (max-width: 640px) {
+  :root {
+    --content-margin-inline: 28px;
+  }
+  .markdown-section div[align="center"][style*="max-width"] {
+    max-width: none !important;
+  }
+}
