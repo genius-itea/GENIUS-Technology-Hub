@@ -29,7 +29,21 @@
         noData: 'No Results!',
         depth: 6,
         hideOtherSidebarContent: false,
-      }
+      },
+
+      plugins: [
+        // Decode contact addresses that the page holds reversed and Base64-encoded,
+        // so that address harvesters that read the raw markdown do not find them.
+        function (hook) {
+          hook.doneEach(function () {
+            document.querySelectorAll('a.mail[data-m]').forEach(function (a) {
+              var m = atob(a.dataset.m).split('').reverse().join('');
+              a.href = 'mailto:' + m;
+              a.textContent = m;
+            });
+          });
+        }
+      ]
     }
   </script>
 

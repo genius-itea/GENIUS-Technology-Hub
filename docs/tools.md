@@ -60,6 +60,7 @@ Agentic API Validator aims to maintain the quality of API services across the De
 | TRL | 3-4 |
 | Use case | Siemens AG |
 | Contribution | Proof of concept development for our use-case |
+| Contact | <a class="mail" data-m="bW9jLnNuZW1laXNAbGVjbnV0Lmt1cm9k">[email, enable JavaScript]</a>, <a class="mail" data-m="bW9jLnNuZW1laXNAZ25hdC5uYWlqZ25veQ==">[email, enable JavaScript]</a> |
 
 <details>
 <summary><strong>More details</strong></summary>
@@ -87,6 +88,7 @@ Extraction of ECAD data from PDF files stored for further engineering steps as o
 | TRL | 3 |
 | Use case | EKS |
 | Contribution | Application |
+| Contact | <a class="mail" data-m="ZWQuY2V0bmktc2tlQGhjc3JlbS5hbml0">[email, enable JavaScript]</a>, <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAY2xlem5ldw==">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/EPDF-Extractor/indu-doc-transformer) |
 
 <details>
@@ -131,6 +133,7 @@ The prototype is being used as a research platform for investigating human-AI co
 | TRL | 3 |
 | Use case | Human-AI assisted requirements engineering and acceptance criteria generation/validation |
 | Contribution | Research prototype / AI-assisted Requirements Engineering tool |
+| Contact | <a class="mail" data-m="aWYudXlqQGlzYWJiYS5hLm5lZXRhbQ==">[email, enable JavaScript]</a> |
 | Links | [Web application](https://re-assistant.streamlit.app) |
 
 <details>
@@ -170,6 +173,7 @@ The tool therefore combines the flexibility of natural-language interaction with
 | TRL | 3 |
 | Use case | EKS |
 | Contribution | Application |
+| Contact | <a class="mail" data-m="ZWQuY2V0bmktc2tlQGhjc3JlbS5hbml0">[email, enable JavaScript]</a>, <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAY2xlem5ldw==">[email, enable JavaScript]</a> |
 
 <details>
 <summary><strong>More details</strong></summary>
@@ -209,6 +213,7 @@ The application is publicly available to support the replicability of the experi
 |---|---|
 | Work package | WP3, WP5 |
 | TRL | 6 |
+| Contact | <a class="mail" data-m="ZWQucmVmb2hudWFyZi5zdWtvZkBhaHRzZXJocy5rZWhzaWhiYQ==">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/Abhishek2271/LESSGuidance), [Paper](https://doi.org/10.1007/978-3-032-07244-3_22) |
 
 <details>
@@ -262,6 +267,7 @@ The demonstration application is an employee portal of 18 views with authenticat
 |---|---|
 | Work package | WP4 |
 | TRL | 2-3 |
+| Contact | <a class="mail" data-m="bW9jLm5pZGFhdkB5aXJ1eQ==">[email, enable JavaScript]</a> |
 | Links | Provided on request: GitHub, Demo application |
 
 <details>
@@ -318,6 +324,7 @@ This combination is particularly relevant in the context of GenAI for software e
 |---|---|
 | Work package | WP4 |
 | TRL | 4 |
+| Contact | <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAa3l6Y2Zhcms=">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/adam-sse/geneseer) |
 
 <details>
@@ -346,6 +353,7 @@ The increasing adoption of Jupyter notebooks in data science and machine learnin
 | Work package | WP4 |
 | TRL | 5-6 |
 | Use case | Siemens AG |
+| Contact | <a class="mail" data-m="bW9jLnNuZW1laXNAbGVjbnV0Lmt1cm9k">[email, enable JavaScript]</a>, <a class="mail" data-m="bW9jLnNuZW1laXNAZ25hdC5uYWlqZ25veQ==">[email, enable JavaScript]</a> |
 | Links | [Paper](https://arxiv.org/pdf/2511.07257) |
 
 <details>
@@ -378,6 +386,7 @@ Rather than making a fully automated quality decision, the tool provides verifia
 | TRL | 3-4 |
 | Use case | Conversion of PDF documents to Markdown and reference-free assessment of conversion quality |
 | Contribution | Application |
+| Contact | <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAanJlaGN0dGVvYg==">[email, enable JavaScript]</a> |
 
 <details>
 <summary><strong>More details</strong></summary>
@@ -410,6 +419,7 @@ The system serves a dual role. As a tool, it provides a controlled, auditable wa
 | Work package | WP4 |
 | TRL | 3 |
 | Contribution | Code generation tool |
+| Contact | <a class="mail" data-m="aWYudXlqQG5lbmlhbGl0b2sueXJ5cA==">[email, enable JavaScript]</a> |
 | Links | [Preprint](https://arxiv.org/abs/2604.26615)<br>Was presented in Prompt-SE. |
 
 <details>
@@ -448,6 +458,7 @@ The work is a proof of concept in an open pull request. The channel is one-way, 
 |---|---|
 | Work package | WP4 |
 | TRL | 2-3 |
+| Contact | <a class="mail" data-m="bW9jLm5pZGFhdkB5aXJ1eQ==">[email, enable JavaScript]</a> |
 | Links | Provided on request: GitHub |
 
 <details>
@@ -503,6 +514,7 @@ Over time, ARTIS builds a library of proven rules that can automatically generat
 | TRL | 3 |
 | Use case | (formerly Akkodis) |
 | Contribution | Application, knowledge base |
+| Contact | <a class="mail" data-m="dWUua2FmaUByZWxwZW9yZy5uaWJvcg==">[email, enable JavaScript]</a>, <a class="mail" data-m="dWUua2FmaUB5dHR1ay5uaWJpbA==">[email, enable JavaScript]</a> |
 
 <details>
 <summary><strong>More details</strong></summary>
@@ -531,6 +543,7 @@ A tool to learn formal models at scale from black-boxed implementations; this ca
 | Work package | WP5 |
 | TRL | 2-3 |
 | Use case | Not yet applied to any use-case (have been benchmarked on large research datasets) |
+| Contact | <a class="mail" data-m="a3UuY2EubGNrQGl2YXN1b20uZGFtbWFob20=">[email, enable JavaScript]</a> |
 | Links | [Repository](https://zenodo.org/records/15170685), [Paper](https://smrmousavi.github.io/pub/mousavi-concur-2025.pdf) |
 
 [Back to overview](#overview)
@@ -549,6 +562,7 @@ Together, these techniques make the fault-localization component useful for inve
 |---|---|
 | Work package | WP4 |
 | TRL | 4 |
+| Contact | <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAa3l6Y2Zhcms=">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/adam-sse/geneseer) |
 
 <details>
@@ -581,6 +595,7 @@ Although the setup-test itself does not employ generative AI or large language m
 | Work package | WP4 |
 | TRL | 4 |
 | Contribution | Benchmark evaluation |
+| Contact | <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pbnVAa3l6Y2Zhcms=">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/adam-sse/geneseer) |
 
 <details>
@@ -611,6 +626,7 @@ LACY is a VS Code extension that supports developer onboarding by providing stru
 | TRL | 4 |
 | Use case | Arçelik |
 | Contribution | Software, paper |
+| Contact | <a class="mail" data-m="bW9jLm9rZWJAbHVnbmFsc2EubmlyaXNuaWxlcw==">[email, enable JavaScript]</a> |
 | Links | [Paper (arXiv)](https://arxiv.org/abs/2603.25391v1), [Paper (ACM)](https://dl.acm.org/doi/10.1145/3803437.3805218) |
 
 <details>
@@ -649,6 +665,7 @@ The results show that more precise requirements substantially improve test effec
 | Work package | WP5 |
 | TRL | 4 |
 | Contribution | Software, paper |
+| Contact | <a class="mail" data-m="dGEuYWNuYWxiYXNhY0B0cmFocmhlLm5haWxpbWl4YW0=">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/casablancahotelsoftware/RESTestBench), [Paper](https://arxiv.org/abs/2604.25862) |
 
 <details>
@@ -699,6 +716,7 @@ RESTifAI is an LLM-driven workflow for generating reusable, CI/CD-ready REST API
 | TRL | 4 |
 | Use case | CASABLANCA, benchmarks |
 | Contribution | Software, paper |
+| Contact | <a class="mail" data-m="dGEuYWNuYWxiYXNhY0B0cmFocmhlLm5haWxpbWl4YW0=">[email, enable JavaScript]</a> |
 | Links | [Preprint (ICSE)](https://arxiv.org/abs/2512.08706), [GitHub](https://github.com/casablancahotelsoftware/RESTifAI), [Demo video](https://www.youtube.com/watch?v=2vtQo0T0Lo4) |
 
 <details>
@@ -733,6 +751,7 @@ The UML Reconstruction Test Suite is an evaluation framework for assessing the a
 | Work package | WP4 |
 | TRL | 3 |
 | Contribution | Application |
+| Contact | <a class="mail" data-m="ZWQubWllaHNlZGxpaC1pdUBjbGV6bmV3">[email, enable JavaScript]</a> |
 | Links | Provided on request: GitLab |
 
 <details>
@@ -768,6 +787,7 @@ We aim to restructure/modernize SW systems with no/minimal human support by prov
 | TRL | 5-6 |
 | Use case | Cape of Good Code |
 | Contribution | Software |
+| Contact | <a class="mail" data-m="bW9jLmVkb2Nkb29nZm9lcGFjQHJlbmhjdXc=">[email, enable JavaScript]</a> |
 
 <details>
 <summary><strong>More details</strong></summary>
@@ -801,6 +821,7 @@ Inside Vaadin, the Unidiff Patcher Agent in the Vaadin Copilot server queries it
 |---|---|
 | Work package | WP4 |
 | TRL | 4 |
+| Contact | <a class="mail" data-m="bW9jLm5pZGFhdkB5aXJ1eQ==">[email, enable JavaScript]</a> |
 | Links | Provided on request: GitHub |
 
 <details>
@@ -860,6 +881,7 @@ Our evaluation focuses on the RAG pipeline, with benchmarks conducted on the SQu
 | Work package | WP2, WP3 |
 | TRL | 5 |
 | Contribution | Software, paper |
+| Contact | <a class="mail" data-m="dGEuY2Eua2JpdUByZXVhbnJvZC50a2lkZW5lYg==">[email, enable JavaScript]</a> |
 | Links | [GitHub](https://github.com/genius-itea/RAGnaroX.git), [Demo video](https://www.youtube.com/watch?v=cDxfuEbcoM4), [Preprint](https://arxiv.org/abs/2604.03291) |
 
 <details>
@@ -919,6 +941,7 @@ Current models do not yet consistently produce unified diffs that apply, so the 
 |---|---|
 | Work package | WP4 |
 | TRL | 4 |
+| Contact | <a class="mail" data-m="bW9jLm5pZGFhdkB5aXJ1eQ==">[email, enable JavaScript]</a> |
 | Links | Provided on request: GitHub |
 
 <details>
