@@ -19,7 +19,7 @@ Each tool has a description, its work package (WP), its technology readiness lev
 | **Requirements and analysis** | | | |
 | [Agentic API Validator](#agentic-api-validator) | A multi-agent system for API validation | WP3 | 3-4 |
 | [ECAD PDFAnalyzer](#ecad-pdfanalyzer) |  | WP3 | 3 |
-| [HARE-SM Framework / RE Assistant](#hare-sm-framework-re-assistant) | Human-AI requirements engineering assistant | WP3 | 3 |
+| [HARE-SM Framework / RE Assistant](#hare-sm-framework--re-assistant) | Human-AI requirements engineering assistant | WP3 | 3 |
 | [Interview ChatBot for Process Analysis](#interview-chatbot-for-process-analysis) |  | WP3 | 3 |
 | [LESS Guidance](#less-guidance) | LESS-Based Requirement and Test Case Generation | WP3, WP5 | 6 |
 | **Development and design** | | | |
@@ -37,7 +37,7 @@ Each tool has a description, its work package (WP), its technology readiness lev
 | [LACY](#lacy) | Legacy codebase understanding tool | WP4 | 4 |
 | [RESTestBench](#restestbench) | Benchmark for requirement-based REST testing | WP5 | 4 |
 | [RESTifAI](#restifai) | Reusable LLM REST API testing | WP5 | 4 |
-| [UML Class Diagram Generator + LLM Benchmark](#uml-class-diagram-generator-llm-benchmark) | LLM Benchmarking and generated UML Class Diagram sets | WP4 | 3 |
+| [UML Class Diagram Generator + LLM Benchmark](#uml-class-diagram-generator--llm-benchmark) | LLM Benchmarking and generated UML Class Diagram sets | WP4 | 3 |
 | **Maintenance, operations, and release** | | | |
 | [DETANGLE Architecture Modernization](#detangle-architecture-modernization) | Architecture Refactoring | WP4 | 5-6 |
 | [Improving AI Awareness of Vaadin Technologies](#improving-ai-awareness-of-vaadin-technologies) | Researching the use of Vaadin MCP to keep AI assistants up to date with the latest Vaadin ecosystem | WP4 | 4 |
